@@ -79,7 +79,7 @@ Os temas disponíveis são:
 
 ![Color Scheme](../images/themes/osg.png)
 
-* oxford-blue-green (v1.10.1):
+* oxford-blue-navy (v1.10.1):
 
 ![Color Scheme](../images/themes/obg.png)
 
